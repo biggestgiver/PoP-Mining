@@ -13,6 +13,11 @@
 ```bash
 screen -r hemipop
 ```
+![image](https://github.com/user-attachments/assets/3e5b2998-39e6-4294-ba86-b8f5a20712cd)
+- If you see something like this 👆, it's fine
+
+![image](https://github.com/user-attachments/assets/1bb2e25a-bfd4-4650-a827-3802ec0ce037)
+- If you see these errors 👆, it is also fine, it is due to gas price fluctuation
 - After that, make sure to detach from the screen session using `Ctrl` + `A` + `D`
 - If you want to check your wallet details later, use the below command
 ```bash
