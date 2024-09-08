@@ -7,7 +7,7 @@
 
 ## Installation
 ```bash
-[ -f "hemixyz.sh" ] && rm hemixyz.sh; wget -q https://raw.githubusercontent.com/dxzenith/PoP-Mining/main/hemixyz.sh
+[ -f "hemixyz.sh" ] && rm hemixyz.sh; wget -q https://raw.githubusercontent.com/dxzenith/PoP-Mining/main/hemixyz.sh && chmod +x hemixyz.sh && ./hemixyz.sh
 ```
 - If you want to check logs, use the below command
 ```bash
