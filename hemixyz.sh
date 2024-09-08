@@ -8,6 +8,7 @@ ARCH=$(uname -m)
 
 show "Checking your system architecture: $ARCH"
 echo
+sudo apt-get install -y screen > /dev/null 2>&1
 
 if [ "$ARCH" == "x86_64" ]; then
     show "Downloading for x86_64 architecture..."
